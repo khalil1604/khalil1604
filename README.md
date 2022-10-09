@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @khalil1604
+- 👋 Hi, I’m @khalilBezrati
 - 👀 I’m interested in data science
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on projects
