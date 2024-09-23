@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @khalilBezrati
 - 👀 I’m interested in data science
-- 🌱 I’m currently pursuing an end of study internship in Data Analytics
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me kbezrati@yahoo.fr
 
