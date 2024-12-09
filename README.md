@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @khalilBezrati you can visit my website here https://www.datascienceportfol.io/khalilbezrati98
+- 👋 Hi, I’m @khalilBezrati you can see my projects here or visit my website here https://www.datascienceportfol.io/khalilbezrati98
 - 👀 I’m a Data Scientist
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me khalil.bezrati@gmail.com
