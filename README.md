@@ -6,6 +6,10 @@
 ### About Me 🚀
 I'm a Data Scientist specializing in building end-to-end Machine Learning systems and AI applications. My expertise spans across MLOps, Natural Language Processing, and developing production-ready ML solutions.
 
+### Tools and Technologies  
+Python, Scikit-learn, Tensorflow, langchain, FastAPI, Flask, Mlflow, Airflow, Docker, Github actions,
+MongoDB, Hugging face ecosystem, AWS(EC2, ECR), Azure(WebApp, ACR), ETL, Web scraping, fine-tuning, NLP, CV
+
 ### 🔥 Featured Projects
 
 #### Machine Learning Engineering
@@ -15,11 +19,10 @@ I'm a Data Scientist specializing in building end-to-end Machine Learning system
 
 2. **[Network Security Phishing Prediction](https://github.com/khalil1604/Production-Ready-ML-System-Network-Security-Phishing-Prediction)**
    - Production-ready ML system for detecting phishing attempts
-   - Implements robust security measures and real-time prediction capabilities
 
 3. **[Wine Quality Prediction](https://github.com/khalil1604/End-to-end-ML-project-with-Mlflow-and-dagshub)**
    - Complete ML pipeline with MLflow integration
-   - Demonstrates experiment tracking and model versioning using dagshub
+   - Experiment tracking and model versioning using dagshub
 
 #### AI Engineering
 1. **[Natural Language Data Warehouse Query System](https://github.com/khalil1604/Query-and-Chat-with-your-Data-Warehouse-using-Natural-Language)**
@@ -34,6 +37,11 @@ I'm a Data Scientist specializing in building end-to-end Machine Learning system
    - Automated text summarization from YouTube videos and websites
    - Utilizes Langchain for efficient content processing and synthesis
 
+#### Data Engineering : 
+1. **[ETL Pipeline with Airflow and AWS](https://github.com/khalil1604/Airflow-with-Astro-Cloud-and-ETL-Pipeline-with-AWS-RDS-PosgreSQL)**
+   - Airflow for managing workflows and scheduling data pipeline
+   - Stores extracted data in AWS PostgreSQL
+   - 
 ### 🤝 Let's Connect
 Feel free to reach out if you're interested in collaborating on projects or discussing data science and AI engineering. Visit my [portfolio website](https://www.datascienceportfol.io/khalilbezrati98) to learn more about my work.
 
