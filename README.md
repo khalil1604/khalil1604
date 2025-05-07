@@ -13,14 +13,14 @@ MongoDB, Hugging face ecosystem, AWS(EC2, ECR), Azure(WebApp, ACR), ETL, Web scr
 ### 🔥 Featured Projects
 
 #### Machine Learning Engineering
-1. **[Gemstone Price Prediction](https://github.com/khalil1604/End-to-End-ML-Regression-with-Endpoints-and-Azure-Deployment)**
+1. **[Gems Price Prediction](https://github.com/khalil1604/End-to-End-ML-Regression-with-Endpoints-and-Azure-Deployment)**
    - End-to-end ML regression system with Azure deployment
    - Features complete pipeline from data processing to production endpoints
 
 2. **[Network Security Phishing Prediction](https://github.com/khalil1604/Production-Ready-ML-System-Network-Security-Phishing-Prediction)**
    - Production-ready ML system for detecting phishing attempts
 
-3. **[Wine Quality Prediction](https://github.com/khalil1604/End-to-end-ML-project-with-Mlflow-and-dagshub)**
+3. **[Customer Behaviour Prediction](https://github.com/khalil1604/End-to-end-ML-project-with-Mlflow-and-dagshub)**
    - Complete ML pipeline with MLflow integration
    - Experiment tracking and model versioning using dagshub
 
