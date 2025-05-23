@@ -4,26 +4,26 @@
 [![Website](https://img.shields.io/badge/Portfolio-Website-blue)](https://www.datascienceportfol.io/khalilbezrati98)
 
 ### About Me 🚀
-I'm a Data Scientist specializing in building end-to-end Machine Learning systems and AI applications. My expertise spans across MLOps, Natural Language Processing, and developing production-ready ML solutions.
-I'am interested and open to projects that involves Machine Learning, Data Engineering, Python.
+I'm a Data Professional specializing in building end-to-end Machine Learning systems and AI applications. My expertise spans across MLOps, Natural Language Processing, and developing production-ready ML solutions.
+I'am interested and open to projects that involves Machine Learning and Data Engineering.
 
-### Tools and Technologies  
+### Main Tools and Technologies  
 Python, SQL Scikit-learn, Tensorflow, langchain, FastAPI, FastAPI, Mlflow, Apache Airflow, ETL, Docker, Github actions,
 MongoDB, Hugging face ecosystem, AWS(EC2, ECR), Azure(WebApp, ACR), fine-tuning, NLP, CV
 
 ### 🔥 Featured Projects
 
 #### Machine Learning Engineering
-1. **[Gems Price Prediction](https://github.com/khalil1604/End-to-End-ML-Regression-with-Endpoints-and-Azure-Deployment)**
-   - End-to-end ML regression system with Azure deployment
-   - Features complete pipeline from data processing to production endpoints
 
-2. **[Network Security Phishing Prediction](https://github.com/khalil1604/Production-Ready-ML-System-Network-Security-Phishing-Prediction)**
+1. **[Network Security Phishing Prediction](https://github.com/khalil1604/Production-Ready-ML-System-Network-Security-Phishing-Prediction)**
    - Production-ready ML system for detecting phishing attempts
 
-3. **[Customer Behaviour Prediction](https://github.com/khalil1604/End-to-end-ML-project-with-Mlflow-and-dagshub)**
+2. **[Customer Behaviour Prediction](https://github.com/khalil1604/End-to-end-ML-project-with-Mlflow-and-dagshub)**
    - Complete ML pipeline with MLflow integration
    - Experiment tracking and model versioning using dagshub
+3. **[Gems Price Prediction](https://github.com/khalil1604/End-to-End-ML-Regression-with-Endpoints-and-Azure-Deployment)**
+   - End-to-end ML regression system with Azure deployment
+   - Features complete pipeline from data processing to production endpoints
 
 #### Data Engineering : 
 1. **[ETL Pipeline with Airflow and AWS](https://github.com/khalil1604/Airflow-with-Astro-Cloud-and-ETL-Pipeline-with-AWS-RDS-PosgreSQL)**
