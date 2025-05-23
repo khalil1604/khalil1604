@@ -1,14 +1,15 @@
 # Khalil Bezrati 👋
-## Data Scientist
+## Data Professional
 
 [![Website](https://img.shields.io/badge/Portfolio-Website-blue)](https://www.datascienceportfol.io/khalilbezrati98)
 
 ### About Me 🚀
 I'm a Data Scientist specializing in building end-to-end Machine Learning systems and AI applications. My expertise spans across MLOps, Natural Language Processing, and developing production-ready ML solutions.
+I'am interested and open to projects that involves Machine Learning, Data Engineering, Python.
 
 ### Tools and Technologies  
-Python, Scikit-learn, Tensorflow, langchain, FastAPI, Flask, Mlflow, Airflow, Docker, Github actions,
-MongoDB, Hugging face ecosystem, AWS(EC2, ECR), Azure(WebApp, ACR), ETL, Web scraping, fine-tuning, NLP, CV
+Python, SQL Scikit-learn, Tensorflow, langchain, FastAPI, FastAPI, Mlflow, Apache Airflow, ETL, Docker, Github actions,
+MongoDB, Hugging face ecosystem, AWS(EC2, ECR), Azure(WebApp, ACR), fine-tuning, NLP, CV
 
 ### 🔥 Featured Projects
 
@@ -24,6 +25,11 @@ MongoDB, Hugging face ecosystem, AWS(EC2, ECR), Azure(WebApp, ACR), ETL, Web scr
    - Complete ML pipeline with MLflow integration
    - Experiment tracking and model versioning using dagshub
 
+#### Data Engineering : 
+1. **[ETL Pipeline with Airflow and AWS](https://github.com/khalil1604/Airflow-with-Astro-Cloud-and-ETL-Pipeline-with-AWS-RDS-PosgreSQL)**
+   - Airflow for managing workflows and scheduling data pipeline
+   - Stores extracted data in AWS PostgreSQL
+
 #### AI Engineering
 1. **[Natural Language Data Warehouse Query System](https://github.com/khalil1604/Query-and-Chat-with-your-Data-Warehouse-using-Natural-Language)**
    - Innovative system for querying data warehouses using natural language
@@ -37,16 +43,12 @@ MongoDB, Hugging face ecosystem, AWS(EC2, ECR), Azure(WebApp, ACR), ETL, Web scr
    - Automated text summarization from YouTube videos and websites
    - Utilizes Langchain for efficient content processing and synthesis
 
-#### Data Engineering : 
-1. **[ETL Pipeline with Airflow and AWS](https://github.com/khalil1604/Airflow-with-Astro-Cloud-and-ETL-Pipeline-with-AWS-RDS-PosgreSQL)**
-   - Airflow for managing workflows and scheduling data pipeline
-   - Stores extracted data in AWS PostgreSQL
+
    - 
 ### 🤝 Let's Connect
 Feel free to reach out if you're interested in collaborating on projects or discussing data science and AI engineering. Visit my [portfolio website](https://www.datascienceportfol.io/khalilbezrati98) to learn more about my work.
 
 ---
-💡 *"Turning Data into Insights, and Insights into Action"*
                     
 
   
