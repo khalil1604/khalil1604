@@ -4,12 +4,36 @@
 [![Website](https://img.shields.io/badge/Portfolio-Website-blue)](https://www.datascienceportfol.io/khalilbezrati98)
 
 ### About Me 🚀
-I'm a Data Professional specializing in building end-to-end Machine Learning systems and AI applications. My expertise spans across MLOps, Natural Language Processing, and developing production-ready ML solutions.
-I'am interested and open to projects that involves Machine Learning and Data Engineering.
+I'm a Data Professional specializing in building end-to-end Machine Learning systems and AI applications. My expertise spans across MLOps and developing production-ready ML solutions. I work with structured and unstructured datasets, implementing scalable and robust pipelines for deploying models and managing data flows.
+
+I'am interested and open to projects that involves Machine Learning, Data Engineering, deploying and monitoring AI/ML models and solutions in production environments.
+
 
 ### Main Tools and Technologies  
-Python, SQL Scikit-learn, Tensorflow, langchain, FastAPI, FastAPI, Mlflow, Apache Airflow, ETL, Docker, Github actions,
-MongoDB, Hugging face ecosystem, AWS(EC2, ECR), Azure(WebApp, ACR), fine-tuning, NLP, CV
+
+**Databases** : PostGreSQL | MongoDB | SQL / NoSQL
+
+**Model Training** : Scikit-learn, Tensorflow, Pytorch
+
+**Generative AI** : Hugging face ecosystem | Transformer models | Fine-tuning & Optimization | Prompt Engineering | Document AI 
+
+**AI Development** : Langchain | RAG | AI Agents | Vector Store 
+
+**Data Manipulation & Visualization** : Pandas, Numpy, Matplotlib, Power BI
+
+**APIs** : FastAPI | Flask
+
+**MLops Monitoring** : Mlflow, Docker, Github actions, CI/CD for ML workflows
+
+**ETL & Pipeline Autimation** : Apache Airflow
+
+**Version Control** : Git | DVC | Dagshub 
+
+**Cloud** : AWS(EC2, ECR), Azure(WebApp, ACR)
+
+**Natural Language Processing, Computer Vision**
+
+
 
 ### 🔥 Featured Projects
 
@@ -21,6 +45,7 @@ MongoDB, Hugging face ecosystem, AWS(EC2, ECR), Azure(WebApp, ACR), fine-tuning,
 2. **[Customer Behaviour Prediction](https://github.com/khalil1604/End-to-end-ML-project-with-Mlflow-and-dagshub)**
    - Complete ML pipeline with MLflow integration
    - Experiment tracking and model versioning using dagshub
+     
 3. **[Gems Price Prediction](https://github.com/khalil1604/End-to-End-ML-Regression-with-Endpoints-and-Azure-Deployment)**
    - End-to-end ML regression system with Azure deployment
    - Features complete pipeline from data processing to production endpoints
