@@ -11,27 +11,27 @@ I'am interested and open to projects that involves Machine Learning, Data Engine
 
 ### Main Tools and Technologies  
 
-**Databases** : PostGreSQL | MongoDB | SQL / NoSQL
+*Databases* : PostGreSQL | MongoDB | SQL / NoSQL
 
-**Model Training** : Scikit-learn, Tensorflow, Pytorch
+*Model Training* : Scikit-learn, Tensorflow, Pytorch
 
-**Generative AI** : Hugging face ecosystem | Transformer models | Fine-tuning & Optimization | Prompt Engineering | Document AI 
+*Generative AI* : Hugging face ecosystem | Transformer models | Fine-tuning & Optimization | Prompt Engineering | Document AI 
 
-**AI Development** : Langchain | RAG | AI Agents | Vector Store 
+*AI Development* : Langchain | RAG | AI Agents | Vector Store 
 
-**Data Manipulation & Visualization** : Pandas, Numpy, Matplotlib, Power BI
+*Data Manipulation & Visualization* : Pandas, Numpy, Matplotlib, Power BI
 
-**APIs** : FastAPI | Flask
+*APIs* : FastAPI | Flask
 
-**MLops Monitoring** : Mlflow, Docker, Github actions, CI/CD for ML workflows
+*MLops Monitoring* : Mlflow, Docker, Github actions, CI/CD for ML workflows
 
-**ETL & Pipeline Autimation** : Apache Airflow
+*ETL & Pipeline Autimation* : Apache Airflow
 
-**Version Control** : Git | DVC | Dagshub 
+*Version Control* : Git | DVC | Dagshub 
 
-**Cloud** : AWS(EC2, ECR), Azure(WebApp, ACR)
+*Cloud* : AWS(EC2, ECR), Azure(WebApp, ACR)
 
-**Natural Language Processing, Computer Vision**
+*Natural Language Processing, Computer Vision*
 
 
 
